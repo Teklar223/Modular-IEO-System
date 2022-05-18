@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\yonatan.ratner@sap.com\\OneDrive - SAP SE\\Desktop\\VsCode Projects\\Text Encryption\\textEncryption\\textEncryption.csproj": {}
+    "C:\\Users\\yonatan.ratner@sap.com\\OneDrive - SAP SE\\Desktop\\VsCode Projects\\Text Encryption\\text-encryption-exercise\\textEncryption\\textEncryption.csproj": {}
   },
   "projects": {
-    "C:\\Users\\yonatan.ratner@sap.com\\OneDrive - SAP SE\\Desktop\\VsCode Projects\\Text Encryption\\textEncryption\\textEncryption.csproj": {
+    "C:\\Users\\yonatan.ratner@sap.com\\OneDrive - SAP SE\\Desktop\\VsCode Projects\\Text Encryption\\text-encryption-exercise\\textEncryption\\textEncryption.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\yonatan.ratner@sap.com\\OneDrive - SAP SE\\Desktop\\VsCode Projects\\Text Encryption\\textEncryption\\textEncryption.csproj",
+        "projectUniqueName": "C:\\Users\\yonatan.ratner@sap.com\\OneDrive - SAP SE\\Desktop\\VsCode Projects\\Text Encryption\\text-encryption-exercise\\textEncryption\\textEncryption.csproj",
         "projectName": "textEncryption",
-        "projectPath": "C:\\Users\\yonatan.ratner@sap.com\\OneDrive - SAP SE\\Desktop\\VsCode Projects\\Text Encryption\\textEncryption\\textEncryption.csproj",
+        "projectPath": "C:\\Users\\yonatan.ratner@sap.com\\OneDrive - SAP SE\\Desktop\\VsCode Projects\\Text Encryption\\text-encryption-exercise\\textEncryption\\textEncryption.csproj",
         "packagesPath": "C:\\Users\\yonatan.ratner@sap.com\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\yonatan.ratner@sap.com\\OneDrive - SAP SE\\Desktop\\VsCode Projects\\Text Encryption\\textEncryption\\obj\\",
+        "outputPath": "C:\\Users\\yonatan.ratner@sap.com\\OneDrive - SAP SE\\Desktop\\VsCode Projects\\Text Encryption\\text-encryption-exercise\\textEncryption\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\yonatan.ratner@sap.com\\AppData\\Roaming\\NuGet\\NuGet.Config"
