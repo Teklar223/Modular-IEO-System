@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\yonatan.ratner@sap.com\\.nuget\\packages\\": {}
+    "C:\\Users\\yonar\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\yonatan.ratner@sap.com\\OneDrive - SAP SE\\Desktop\\VsCode Projects\\Text Encryption\\text-encryption-exercise\\textEncryption\\textEncryption.csproj",
+      "projectUniqueName": "C:\\Users\\yonar\\Desktop\\C#\\text-encryption-exercise\\textEncryption\\textEncryption.csproj",
       "projectName": "textEncryption",
-      "projectPath": "C:\\Users\\yonatan.ratner@sap.com\\OneDrive - SAP SE\\Desktop\\VsCode Projects\\Text Encryption\\text-encryption-exercise\\textEncryption\\textEncryption.csproj",
-      "packagesPath": "C:\\Users\\yonatan.ratner@sap.com\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\yonatan.ratner@sap.com\\OneDrive - SAP SE\\Desktop\\VsCode Projects\\Text Encryption\\text-encryption-exercise\\textEncryption\\obj\\",
+      "projectPath": "C:\\Users\\yonar\\Desktop\\C#\\text-encryption-exercise\\textEncryption\\textEncryption.csproj",
+      "packagesPath": "C:\\Users\\yonar\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\yonar\\Desktop\\C#\\text-encryption-exercise\\textEncryption\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\yonatan.ratner@sap.com\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\yonar\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"

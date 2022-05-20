@@ -1,10 +1,8 @@
-
-
 namespace encryption_exercise
 {
-    public class Encryption
+    public abstract class aStrategy
     {
-        public void Encrypt(){
+        public void Process(){
             try
             {
                 string toEncrypt = Input();
@@ -22,16 +20,10 @@ namespace encryption_exercise
 
         protected virtual string Input() 
         {
-            string? input = Console.ReadLine();
-            if (input == null)
-            {
-                input = ""; //naturally, this still has 'no value'
-            }
+            string input = "Abstract Text";
             return input; 
         }
-        protected virtual void encrypt(ref string s) { s = "Encrypted"; /* TODO - Implement a basic encyption */}
+        protected virtual void encrypt(ref string s) { s = "Encrypted Text"; /* TODO - Implement a basic encyption */}
         protected virtual void Output(ref string s) { Console.WriteLine("After Encrypting: " + s); }
-        
     }
-
 }

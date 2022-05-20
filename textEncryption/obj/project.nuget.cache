@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rjGVbCjk7xRFb8JLKLkv6pjeWja91haomUzjOxduhbj3h3Hg7ZEeiOBscVBNCDsUoqs1xIO0gNTEBS/ZIYy+MA==",
+  "dgSpecHash": "hEbCpwrFqrA6xmheJ52zKJHM5LFpL9YTSQKU/p5udjxp7WSgGX2WogcqQHpgAGNcFqkIhU2wvJEvDx3rZPSMOg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\yonatan.ratner@sap.com\\OneDrive - SAP SE\\Desktop\\VsCode Projects\\Text Encryption\\text-encryption-exercise\\textEncryption\\textEncryption.csproj",
+  "projectFilePath": "C:\\Users\\yonar\\Desktop\\C#\\text-encryption-exercise\\textEncryption\\textEncryption.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
