@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hEbCpwrFqrA6xmheJ52zKJHM5LFpL9YTSQKU/p5udjxp7WSgGX2WogcqQHpgAGNcFqkIhU2wvJEvDx3rZPSMOg==",
+  "dgSpecHash": "N3AYEUIfUarb2MaDX4QUO1KMxvkjZ6KE8uhh91QmOSKYJrVXhM/WGlcbqrx4l7gLmerDxz7mEun1ECRzPzMChA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\yonar\\Desktop\\C#\\text-encryption-exercise\\textEncryption\\textEncryption.csproj",
+  "projectFilePath": "C:\\Users\\yonar\\Desktop\\C#\\text-encryption-exercise\\TextEncryption\\textEncryption.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

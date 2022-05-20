@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\yonar\\Desktop\\C#\\text-encryption-exercise\\textEncryption\\textEncryption.csproj": {}
+    "C:\\Users\\yonar\\Desktop\\C#\\text-encryption-exercise\\TextEncryption\\textEncryption.csproj": {}
   },
   "projects": {
-    "C:\\Users\\yonar\\Desktop\\C#\\text-encryption-exercise\\textEncryption\\textEncryption.csproj": {
+    "C:\\Users\\yonar\\Desktop\\C#\\text-encryption-exercise\\TextEncryption\\textEncryption.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\yonar\\Desktop\\C#\\text-encryption-exercise\\textEncryption\\textEncryption.csproj",
+        "projectUniqueName": "C:\\Users\\yonar\\Desktop\\C#\\text-encryption-exercise\\TextEncryption\\textEncryption.csproj",
         "projectName": "textEncryption",
-        "projectPath": "C:\\Users\\yonar\\Desktop\\C#\\text-encryption-exercise\\textEncryption\\textEncryption.csproj",
+        "projectPath": "C:\\Users\\yonar\\Desktop\\C#\\text-encryption-exercise\\TextEncryption\\textEncryption.csproj",
         "packagesPath": "C:\\Users\\yonar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\yonar\\Desktop\\C#\\text-encryption-exercise\\textEncryption\\obj\\",
+        "outputPath": "C:\\Users\\yonar\\Desktop\\C#\\text-encryption-exercise\\TextEncryption\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\yonar\\AppData\\Roaming\\NuGet\\NuGet.Config"
