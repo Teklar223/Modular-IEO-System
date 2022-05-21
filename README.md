@@ -1,6 +1,5 @@
 # Text Encryption Exercise
-
-A .net oriented exercise for @SAP-Gigya
+A Modular Input->Encryption->Output system I created as part of a .net oriented exercise for @SAP-Gigya
 
 ## What is the exercise?
 Firstly, you can look at the `exercise_specifications.png` file to see the exact wording, but my understanding is that I was to create a modular system that inputs data, processes it, and outputs it, where the modularity is for each step and the data is text\files etc...
