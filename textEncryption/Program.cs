@@ -1,11 +1,8 @@
-﻿// See https://aka.ms/new-console-template for more information
-using encryption_exercise;
+﻿using encryption_exercise;
 
-//"MAIN"
-
-ProcessRunner pr = new ProcessRunner();
-IInput readlineInput = new ReadLineInput();
+ProcessRunner processRunner = new ProcessRunner();
+IInput readlineInput = new FilePathInput();
 IEncryptor stringEncryptor = new StringEncryptor();
-IOutput writelineOutput = new WriteLineOutput();
-AbstractProcess ps = new Process(stringEncryptor, readlineInput, writelineOutput);
-pr.executeStrategy(ps);
+IOutput writetofileOutput = new WriteToFileOutput();
+AbstractProcess process = new Process(stringEncryptor, readlineInput, writetofileOutput);
+processRunner.execute(process);

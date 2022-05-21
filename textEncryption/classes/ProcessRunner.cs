@@ -6,22 +6,22 @@ namespace encryption_exercise
 {
     public class ProcessRunner
     {
-        public void executeStrategy(AbstractProcess strategy)
+        public void execute(AbstractProcess process)
         {
-            if (!strategy.supportsAsync())
-            {
-                strategy.Process();
-            }
-            else
-            {
-                throw new InvalidOperationException("Do dont run async functions using a synced method.");
-            }
+            /// <summary>
+            /// Executes a specific process in a *Synchronised* way, does NOT throw.
+            /// </summary>
+            process.Process();
+
         }
-        public void executeAsyncStrategy(AbstractProcess strategy)
+        public void executeAsync(AbstractProcess process)
         {
-            if (strategy.supportsAsync())
+            /// <summary>
+            /// Executes a specific process in an *Async* way, THROWS an exception if Async is NOT SUPPORTED by the process.
+            /// </summary>
+            if (process.supportsAsync())
             {
-            Thread t = new Thread(new ThreadStart(strategy.Process));
+            Thread t = new Thread(new ThreadStart(process.Process));
             t.Start();
             }
             else
