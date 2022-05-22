@@ -13,3 +13,6 @@ I created 3 interfaces representing input, encryption, and output as classes and
 `Template` - This design pattern lists a set of steps (like a recipe), which are not subject to change, but the implementation of each step is, so for my problem, the function in the `Process` class is not subject to change, but every step of it is a Strategy and can therefore be swapped at essentially any point in time.
 </br> </br>
 `Pipeline` - In my Template method, I expect to receive a string array from my input class, which then is passed by reference to be worked on by the encrypting class, which then gets passed by reference to the output class, however in my implemantion this is a small pipeline, but seeing as I can extend it, it is relevant.
+
+## How to Use
+`Clone` the repository, `cd` to `textEncryption` folder, and use `dotnet run` (which runs `Program.cs`)
